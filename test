@@ -1,6 +1,4 @@
 #!/bin/bash
 MAINTAIN:SANDRA
+echo "hello this feels good"
 
-
-echo "hello world"
-this is my readme file
